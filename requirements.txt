@@ -1,3 +1,4 @@
-fastapi
-uvicorn
-edge-tts
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+edge-tts==6.1.18
+pydantic==2.11.7
